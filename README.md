@@ -291,5 +291,4 @@ Bukan sekadar CRUD.
 
 ## 🧑‍💻 Author
 
-Built by **Ajar**
-Target: **Go Backend Intern / Junior Backend**
+Built by **Muhammad Azdhar Syahputra**
